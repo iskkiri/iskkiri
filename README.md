@@ -23,5 +23,5 @@ I’m a Frontend Engineer passionate about creating intuitive and user-friendly 
 
 ## GitHub Stats 📈
 
-![GitHub stats](https://github-readme-stats-kkiriky.vercel.app/api?username=kkiriky&hide=stars&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kkiriky&layout=compact&theme=dark)
+![GitHub stats](https://github-readme-stats-kkiriky.vercel.app/api?username=iskkiri&hide=stars&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iskkiri&layout=compact&theme=dark)
